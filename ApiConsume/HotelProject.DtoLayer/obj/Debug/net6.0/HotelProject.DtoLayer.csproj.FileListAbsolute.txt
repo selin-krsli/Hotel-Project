@@ -1,0 +1,17 @@
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.deps.json
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CopyComplete
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\refint\HotelProject.DtoLayer.dll
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\Repos\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll

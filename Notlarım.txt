@@ -1,0 +1,9 @@
+CORS Metodu(Cross-origin Resource Sharing)
+CORS, HTTP Header'larýný kullanarak, bir origin'de çalýþan web uygulamasýnýn veya websitesinin, farklý bir origin'de yer alan web uygulamasýna ya da websitesine olan eriþim izni kontrolünü saðlayan yapýdýr.
+CORS, we tarayýcýlar tarafýndan yönetilmektedir. Ayný browser üzerinde bir web uygulamasý farklý bir origine herhangi bir istek gönderirse bu istek cross-origin HTTP isteði olarak oluþur.
+Same Origin Policy: Port, Protocol, Domain üçlüsünden oluþmakta ve bir tanesi farklý olursa Same Origin Policy'e uymamýþ oluyor.
+Application URL: http://application.com
+1- http://application.com/category/page3 --same
+2- https://application.com/ --not same(protocol)
+3- http://application.com:99 --not same(port)
+4- http://en.application.com/ --not same(domain)
